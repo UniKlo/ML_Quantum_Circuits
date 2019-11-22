@@ -9,6 +9,8 @@ My objective is to use machine learning to predict the histogram.
 ## Data
 
 Each QC has up to 40 gates. Gates are activated one after another one in ascending sequence.<br/>
+
 Each gate has the following attributes: gate name, gate type, control, target, angle_1, angle_2, and angle_3. The value in control and target mean the index of the qubit has this gate. '-1' means NULL.<br/>
-We have 100K randomly generated QCs and their states histograms.
+
+I have 100K randomly generated QCs and their states histograms.
 
