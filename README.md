@@ -10,5 +10,5 @@ My objective is to use machine learning to predict the histogram.
 
 Each QC has up to 40 gates. <br/>
 Each gate has following attributes: gate name, gate type, control, tartget, angle_1, angle_2 and angle_3.<br/>
-100K randomly generated QCs based on 5 qubits and their histograms.
+We have 100K randomly generated QCs and their states histograms.
 
